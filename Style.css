@@ -1,0 +1,49 @@
+#main{
+    background-color: rgb(54, 115, 227);
+}
+
+#container{
+    height: 300px;
+    width: 600px;
+    background-color: lavender;
+    border: solid;
+    border-color: beige;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 170px;
+}
+
+#container:hover{
+    border-color: crimson;
+}
+
+body h3{
+    text-align: center;
+    font-size: larger;
+    color:grey;
+}
+
+#joke{
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    margin-top: 80px;
+    font-weight: 900;
+    }
+
+#jokebutton{
+    text-align: center;
+    background-color: rgb(226, 170, 29);
+    width: 100px;
+    height: 45px;
+    font-size: smaller;
+    font-style: normal;
+    margin-left: 40%;
+    margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+    border-color: rgb(226, 170, 29) ;
+}
+#jokebutton:hover{
+    background-color: bisque;
+}
